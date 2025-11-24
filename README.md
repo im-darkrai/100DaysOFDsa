@@ -1,2 +1,2 @@
-# 100DaysOFDsa
-A structured 100-day journey to master Data Structures &amp; Algorithms from zero to advanced. This repository tracks my daily progress, notes, solutions, and coding practice across all core DSA topics — with consistency as the main goal.
+Welcome to my 100 Days of Data Structures & Algorithms Challenge!
+This repository documents my entire journey of improving problem-solving skills, building strong fundamentals, and preparing for FAANG/Product-based companies.
